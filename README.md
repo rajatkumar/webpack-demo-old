@@ -1,5 +1,7 @@
 # Getting Started 
 
+Branch: Use `git checkout getting-started`
+
 A simple `webpack.config.js` that outputs a `build.js`. We can use this
 generated file in a static `index.html`.
  
